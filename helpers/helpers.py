@@ -8,7 +8,6 @@ def create_table_definition(df):
 
 def prompt_input():
     nlp_text = input("Enter the info you want: ")
-    print(nlp_text)
     return nlp_text
 
 
