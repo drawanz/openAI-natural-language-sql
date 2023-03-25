@@ -11,7 +11,7 @@ This is my first project using openAI to convert natural language to SQL queries
 3. Navigate into the project directory:
 
    ```bash
-   $ cd openai-quickstart-python
+   $ cd openAI-natural-language-sql
    ```
 
 4. Create a new virtual environment:
